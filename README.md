@@ -1,43 +1,45 @@
 # Data strucrue and algorithm
->I use this to record my study of ata strucrue and algorithm.  
+>I use this to record my study of data strucrue and algorithm.  
 >And I upload the code of different language which implement it.  
->language now: C++ python future: java and functional langauge
+>Language now: C++ python 
+>Future: functional programming langauge
 
 Translations:
 - [中文版本](translations/README-cn.md)
+
 ---
 ## Table of content
 
 - [Data structure]()  
-​	- [array]()  
-​	- [Linked List]()  
-​	- [Stack]()  
-​	- [Queue]()  
-​	- [Hash Table]()  
-​	- [Tree]()  
-​		- [binary tree]()  
-​		- [binary search tree]()  
-​		- [heap]()  
-​	- [Graph]()  
-​    - [Bit Operation]()  
-​    - [Matrix]()  
-​    - [String]()  
+  - [array]()   
+  -  [Linked List]() 
+  -  [Stack]()  
+  -  [Queue]()  
+  -  [Hash Table]() 
+  -  [Tree]()  
+    - [binary tree]()
+    -  [binary search tree]()
+    -  [heap]()   
+  - [Graph]()  
+  - [Bit Operation]()  
+  - [Matrix]()  
+  - [String]()  
 
 - [Algorithm]()  
-​	- [Analysis]()  
-​	- [paradigm]()  
-​		- [Greedy]()  
-​		- [Dynamic programming]()  
-​		- [Divide and conquer]()  
-​		- [Backtracking]()  
-​		- [Brand&Bound]()  
-​	- [Topic]()  
-​		- [Sorting]()  
-​		- [Searching]()  
-​		- [Graph]()  
-​		- [Geometric]()  
-​		- [Math]()  
-​		- [Game Theory]()
+  - [Analysis]()  
+  - [paradigm]()  
+    - [Greedy]()  
+    - [Dynamic programming]()  
+    - [Divide and conquer]()  
+    - [Backtracking]()  
+    - [Brand&Bound]()  
+  - [Topic]()  
+    - [Sorting]()  
+    - [Searching]()  
+    - [Graph]()  
+    - [Geometric]()  
+    - [Math]()  
+    - [Game Theory]()
 
 ---
 
