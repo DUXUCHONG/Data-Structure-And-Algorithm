@@ -1,4 +1,4 @@
-#Data strucrue and algorithm
+# Data strucrue and algorithm
 >I use this to record my study of ata strucrue and algorithm.  
 >And I upload the code of different language which implement it.  
 >language now: C++ python future: java and functional langauge
@@ -38,12 +38,12 @@ Translations:
 ​		-[Geometric]()  
 ​		-[Math]()  
 ​		-[Game Theory]()
-​		 
+
 ---
 
-##Data Structure
+## Data Structure
 
-##Algorithm
+## Algorithm
 
 ## Markdown
 
