@@ -8,43 +8,44 @@ Translations:
 ---
 ## Table of content
 
--[Data structure]  
-	-[array]  
-	-[Linked List]  
-	-[Stack]  
-	-[Queue]  
-	-[Hash Table]  
-	-[Tree]  
-		-[binary tree]  
-		-[binary search tree]  
-		-[heap]  
-	-[Graph]  
-    -[Bit Operation]  
-    -[Matrix]  
-    -[String]  
+-[Data structure]()  
+​	-[array]()  
+​	-[Linked List]()  
+​	-[Stack]()  
+​	-[Queue]()  
+​	-[Hash Table]()  
+​	-[Tree]()  
+​		-[binary tree]()  
+​		-[binary search tree]()  
+​		-[heap]()  
+​	-[Graph]()  
+​    -[Bit Operation]()  
+​    -[Matrix]()  
+​    -[String]()  
 
--[Algorithm]  
-	-[Analysis]  
-	-[paradigm]  
-		-[Greedy]  
-		-[Dynamic programming]  
-		-[Divide and conquer]  
-		-[Backtracking]  
-		-[Brand&Bound]  
-	-[Topic]  
-		-[Sorting]  
-		-[Searching]  
-		-[Graph]  
-		-[Geometric]  
-		-[Math]  
-		-[Game Theory]  
+-[Algorithm]()  
+​	-[Analysis]()  
+​	-[paradigm]()  
+​		-[Greedy]()  
+​		-[Dynamic programming]()  
+​		-[Divide and conquer]()  
+​		-[Backtracking]()  
+​		-[Brand&Bound]()  
+​	-[Topic]()  
+​		-[Sorting]()  
+​		-[Searching]()  
+​		-[Graph]()  
+​		-[Geometric]()  
+​		-[Math]()  
+​		-[Game Theory]()
+​		 
 ---
 
 ##Data Structure
- 
+
 ##Algorithm
 
-### Markdown
+## Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
