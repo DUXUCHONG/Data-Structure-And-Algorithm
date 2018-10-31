@@ -1,8 +1,48 @@
-## Welcome to GitHub Pages
+#Data strucrue and algorithm
+>I use this to record my study of ata strucrue and algorithm.  
+>And I upload the code of different language which implement it.  
+>language now: C++ python future: java and functional langauge
 
-You can use the [editor on GitHub](https://github.com/DUXUCHONG/data-structure-and-algorithm/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Translations:
+- [中文版本](translations/README-cn.md)
+---
+## Table of content
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+-[Data structure]
+	-[array]
+	-[Linked List]
+	-[Stack]
+	-[Queue]
+	-[Hash Table]
+	-[Tree]
+		-[binary tree]
+		-[binary search tree]
+		-[heap]
+	-[Graph]
+    -[Bit Operation]
+    -[Matrix]
+    -[String]
+
+-[Algorithm]
+	-[Analysis]
+	-[paradigm]
+		-[Greedy]
+		-[Dynamic programming]
+		-[Divide and conquer]
+		-[Backtracking]
+		-[Brand&Bound]
+	-[Topic]
+		-[Sorting]
+		-[Searching]
+		-[Graph]
+		-[Geometric]
+		-[Math]
+		-[Game Theory]
+---
+
+##Data Structure
+ 
+##Algorithm
 
 ### Markdown
 
@@ -27,11 +67,3 @@ Syntax highlighted code block
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/DUXUCHONG/data-structure-and-algorithm/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
